@@ -1,0 +1,13 @@
+Source: rockos-gles-addons
+Section: misc
+Priority: optional
+Maintainer: Han Gao <gaohan@iscas.ac.cn>
+Build-Depends: debhelper-compat (= 13), libdrm2, libwayland-client0, libx11-xcb1
+Standards-Version: 4.7.0
+Rules-Requires-Root: no
+
+Package: rockos-gles-addons
+Architecture: riscv64
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: rockos gles addons of the rockos

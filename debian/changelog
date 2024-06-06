@@ -1,0 +1,5 @@
+rockos-gles-addons (1.18+0rockos1) unstable; urgency=medium
+
+  * Add rockos gles addon
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Thu, 06 Jun 2024 23:35:19 +0800
