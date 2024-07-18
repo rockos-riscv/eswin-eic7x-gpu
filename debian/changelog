@@ -1,3 +1,10 @@
+rockos-gles-addons (1.18+0rockos2) unstable; urgency=medium
+
+  * Add powervr.ini for stk game
+  * Add xorg conf for pvr
+
+ -- Han Gao <gaohan@iscas.ac.cn>  Thu, 18 Jul 2024 20:56:54 +0800
+
 rockos-gles-addons (1.18+0rockos1) unstable; urgency=medium
 
   * Add rockos gles addon
