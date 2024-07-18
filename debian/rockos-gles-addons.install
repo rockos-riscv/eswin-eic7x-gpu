@@ -52,6 +52,7 @@
 ./usr/bin/rgx_compute_test
 ./usr/bin/hwperfbin2jsont
 ./etc
+./etc/powervr.ini
 ./etc/OpenCL
 ./etc/OpenCL/vendors
 ./etc/OpenCL/vendors/IMG.icd
