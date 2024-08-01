@@ -1,12 +1,7 @@
-rockos-gles-addons (1.18+0rockos2) unstable; urgency=medium
+eswin-eic7x-gpu (1.18+0rockos3) unstable; urgency=medium
 
   * Add powervr.ini for stk game
   * Add xorg conf for pvr
+  * Add eswin eic7x gpu userland library
 
- -- Han Gao <gaohan@iscas.ac.cn>  Thu, 18 Jul 2024 20:56:54 +0800
-
-rockos-gles-addons (1.18+0rockos1) unstable; urgency=medium
-
-  * Add rockos gles addon
-
- -- Han Gao <gaohan@iscas.ac.cn>  Thu, 06 Jun 2024 23:35:19 +0800
+ -- Han Gao <gaohan@iscas.ac.cn>  Thu, 01 Aug 2024 10:37:06 +0800
