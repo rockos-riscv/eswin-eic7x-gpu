@@ -2,7 +2,15 @@ Source: eswin-eic7x-gpu
 Section: misc
 Priority: optional
 Maintainer: Han Gao <gaohan@iscas.ac.cn>
-Build-Depends: debhelper-compat (= 13), libdrm2, libwayland-client0, libx11-xcb1
+Build-Depends: 
+ debhelper-compat (= 13), 
+ libdrm-dev, 
+ libwayland-dev,
+ libx11-dev,
+ libglvnd-dev,
+ libvulkan-dev,
+ libcairo2-dev,
+ libxrender-dev,
 Standards-Version: 4.7.0
 Rules-Requires-Root: no
 
