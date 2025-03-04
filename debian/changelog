@@ -1,3 +1,10 @@
+eswin-eic7x-gpu (24.2+0rockos3) unstable; urgency=medium
+
+  * DDK24.2.6643903
+  * Fix vulkan cts
+
+ -- Han Gao <rabenda.cn@gmail.com>  Wed, 05 Mar 2025 00:21:44 +0800
+
 eswin-eic7x-gpu (24.2+0rockos2) unstable; urgency=medium
 
   * Update DDK24.2 userland with gcc13 compiled.
